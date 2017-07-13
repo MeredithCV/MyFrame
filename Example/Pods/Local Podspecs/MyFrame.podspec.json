@@ -1,0 +1,22 @@
+{
+  "name": "MyFrame",
+  "version": "0.1.0",
+  "summary": "A short description of MyFrame.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MeredithCV/MyFrame",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MeredithCV": "mvigelandzoon@mirabeau.nl"
+  },
+  "source": {
+    "git": "https://github.com/MeredithCV/MyFrame.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyFrame/Classes/**/*"
+}

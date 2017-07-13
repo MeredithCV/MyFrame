@@ -1,0 +1,16 @@
+PODS:
+  - MyFrame (0.1.0)
+
+DEPENDENCIES:
+  - MyFrame (from `../`)
+
+EXTERNAL SOURCES:
+  MyFrame:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyFrame: a5a9d45e78f6b93844c9e9fc1835ec61cff6d1b2
+
+PODFILE CHECKSUM: c04549d58f54858fbd7a4609186f71199b8247d7
+
+COCOAPODS: 1.2.1
